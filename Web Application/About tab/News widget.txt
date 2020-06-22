@@ -1,0 +1,9 @@
+News widget source:
+
+<p>
+    Hello there Foodpreneur and Foodista!
+</p>
+<p>
+    Let's catch up on some daily update from the world of food. Shall we?
+</p>
+<iframe src= "https://www.independent.co.uk/topic/indian-food" height="400" width="450"></iframe>

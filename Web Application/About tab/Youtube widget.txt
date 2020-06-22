@@ -1,0 +1,13 @@
+Youtube widget source:
+
+<p>
+    In case you're not in the mood to read lengthy articles, we've got you covered with some amazing videos to keep you informed fellow Foodie!
+</p>
+<p>
+    
+</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0SPwwpruGIA?start=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>
+    
+</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jxsiaR_rHXU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

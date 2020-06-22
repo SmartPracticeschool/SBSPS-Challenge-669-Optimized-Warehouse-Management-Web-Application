@@ -1,0 +1,18 @@
+Essential data Widget source:
+
+<p>
+    There are two excel sheets provided here for the understanding of the user of this web application. It is not always possible for a user to remember or carry a copy of the IDs at his or her disposal, thus a readily made directory will largely help the user and thereby increase the efficiency.
+</p>
+<p>
+    The user might refer, at any time during the session, to the tables of:
+</p>
+<p><b>
+1) Centre ID
+</p></b>
+<p><b>
+2) Meal ID
+</p></b>
+<p>
+for filling up the required form in the latter part of the page.
+</p>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQomKIgWuPYnggjmRheqVgXjkb90GN3Y2VEZApwDhDQxcTyHnTm6JvyV7yysLAlwRhKvfB45IUoQgdq/pubhtml?widget=true&amp;headers=false" height="400" width="450"></iframe>
