@@ -1,0 +1,55 @@
+Optimized Warehouse Management Web Application
+Category: Machine Learning web application
+
+Project Description:
+Problem Description:
+A food delivery service has to deal with a lot of perishable raw materials which makes it all, the most important factor for such a company is to accurately forecast daily and weekly demand. Too much inventory in the warehouse means more risk of wastage, and not enough could lead to out-of-stocks - and push customers to seek solutions from your competitors. The replenishment of majority of raw materials is done on weekly basis and since the raw material is perishable, the procurement planning is of utmost importance.
+
+So, the need of the hour is a method to predict the prospective demand amounts in the not so distant future so that the supply chain can stock and meet every incoming demand of the customer.
+Expected Solution:
+Machine Learning Model to predict the demand of goods for the next 10 weeks or in the future Mobile / Web Application to Interact with ML Model deployed on IBM Cloud.
+
+
+
+Proposed Solution:
+Developing and deploying a Machine Learning Model in Watson Studio service, a live interactive dashboard through the IBM Cognos Embedded service and integrating all the aforementioned features through NODE-RED/ Python Web App. The entire development and deployment actions need to be performed in the IBM Cloud.
+
+Project Planning & Kickoff
+Given that the expected solution requires me to predict the number of orders that a food delivery service might be getting for 10 weeks in advanced to a mentioned week using a Machine Learning Model, I would take the approach of setting up a Machine Learning Model first.
+
+1.	I would have to gather a data set which contains the previous details of any such delivery service. Such details being, the week, a couple of IDs probably, of the meal and center, the check in and check out prices, and lastly the number of orders associated with each one of them.
+2.	It'd take a little while to decide on the algorithm to be used in developing the ML Model, but I would guess that Random Forest Regressor would be a safe bet.
+3.	After training and testing the model, and sorting relevant models according to their RMSE score, I would deploy the selected model in the IBM cloud for future use.
+
+After developing the ML Model and deploying it, I need to connect it to a web application as well. The proposed web application will contain a form to be filled up by the end user for evaluation of the desired predicted results, as per the given problem.
+
+
+A basic outlay of HTML, CSS and JavaScript should be enough to create a desirable Web App for the following purpose.
+
+A live interactive dashboard also adds a style quotient for the Web application and also makes it easier for the end user to learn more about the relation of the provided fields with the output i.e. Number of Orders.
+
+Project Scope: Deliverables, Timeline, Milestones
+
+Objective:
+To create an Optimized Warehouse Management Web Application for a food delivery service so as to help them predict the future orders (10 weeks advance) of required good.
+
+
+Deliverables & Timeline:
+
+
+•	Gathering the required Dataset for analysis - 2 Days.
+•	Building up the ML Model with correct algorithm. Thereafter, training and testing it - 4 Days.
+•	Deploying the model - 2 Days.
+•	Creating an interactive dashboard. - 3 Days.
+•	Creating the Web Application from scratch, and integrating all of the above setups with it through NODE-RED - 4 Days.
+Milestones:
+•	Project planning and kick off
+•	Collection of Data sets
+•	Exploring IBM Cloud Platform
+•	Exploring IBM Watson Services
+•	Building the "Optimized Warehouse Management Web Application"
+•	Submission of project document
+
+
+
+
