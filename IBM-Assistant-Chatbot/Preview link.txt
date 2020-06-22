@@ -1,0 +1,3 @@
+Preview link:
+
+https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=48bacbc3-0581-4f13-9914-c85f9185182d&serviceInstanceID=add67e37-dbfe-438e-a76f-8f84bef9a6c1
