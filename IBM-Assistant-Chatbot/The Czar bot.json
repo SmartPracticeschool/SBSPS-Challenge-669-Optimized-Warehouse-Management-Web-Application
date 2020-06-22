@@ -1,0 +1,3106 @@
+{
+  "intents": [
+    {
+      "intent": "General_Ending",
+      "examples": [
+        {
+          "text": "Get lost"
+        },
+        {
+          "text": "Im done"
+        },
+        {
+          "text": "Im good thank you"
+        },
+        {
+          "text": "I'm leaving now"
+        },
+        {
+          "text": "It was nice chatting with you"
+        },
+        {
+          "text": "Ok goodbye"
+        },
+        {
+          "text": "See you later"
+        },
+        {
+          "text": "See you"
+        },
+        {
+          "text": "Go away"
+        },
+        {
+          "text": "Go off"
+        },
+        {
+          "text": "Bye bye"
+        },
+        {
+          "text": "Bye now"
+        },
+        {
+          "text": "Catch you later"
+        },
+        {
+          "text": "Cya later"
+        },
+        {
+          "text": "End trial"
+        },
+        {
+          "text": "Ending this session"
+        },
+        {
+          "text": "Finished now, good bye"
+        },
+        {
+          "text": "Going now"
+        },
+        {
+          "text": "Good. bye."
+        },
+        {
+          "text": "Goodbye"
+        },
+        {
+          "text": "Have a nice day?"
+        },
+        {
+          "text": "Hey bot go away"
+        },
+        {
+          "text": "I am leaving"
+        },
+        {
+          "text": "I am out of here"
+        },
+        {
+          "text": "I d like to stop doing this"
+        },
+        {
+          "text": "I have got to go"
+        },
+        {
+          "text": "I want to quit"
+        },
+        {
+          "text": "I'm done"
+        },
+        {
+          "text": "Shut up"
+        },
+        {
+          "text": "Stop doing this"
+        },
+        {
+          "text": "Stop talking to me"
+        },
+        {
+          "text": "Thank you for your time"
+        },
+        {
+          "text": "Thanks, bye!"
+        },
+        {
+          "text": "Thanks very much, bye!"
+        },
+        {
+          "text": "That is all"
+        },
+        {
+          "text": "That's everything"
+        },
+        {
+          "text": "Time to go"
+        }
+      ],
+      "description": "End the conversation."
+    },
+    {
+      "intent": "General_Negative_Feedback",
+      "examples": [
+        {
+          "text": "Robots are stupid"
+        },
+        {
+          "text": "You're too stupid"
+        },
+        {
+          "text": "Robots are boring"
+        },
+        {
+          "text": "Quit annoying me"
+        },
+        {
+          "text": "It is annoying"
+        },
+        {
+          "text": "I hate you"
+        },
+        {
+          "text": "I hate this!"
+        },
+        {
+          "text": "I do not like you"
+        },
+        {
+          "text": "Hate you"
+        },
+        {
+          "text": "Everyone hates you"
+        },
+        {
+          "text": "Do not like you?"
+        },
+        {
+          "text": "You're really irritating"
+        },
+        {
+          "text": "You're really frustrating"
+        },
+        {
+          "text": "You do not seem smart"
+        },
+        {
+          "text": "You are very frustrating"
+        },
+        {
+          "text": "You are on my nerves"
+        },
+        {
+          "text": "You are having delusions"
+        },
+        {
+          "text": "Why are you stupid?"
+        },
+        {
+          "text": "Why are you so annoying?"
+        },
+        {
+          "text": "Stupid"
+        }
+      ],
+      "description": "Express unfavorable feedback."
+    },
+    {
+      "intent": "Bot_Control_Standby",
+      "examples": [
+        {
+          "text": "Be back later"
+        },
+        {
+          "text": "Can you give me a moment?"
+        },
+        {
+          "text": "Wait"
+        },
+        {
+          "text": "Out for a break"
+        },
+        {
+          "text": "Give me a few minutes to get together"
+        },
+        {
+          "text": "Need a minute here"
+        },
+        {
+          "text": "Let me see"
+        },
+        {
+          "text": "Keep holding"
+        },
+        {
+          "text": "Just hold on"
+        },
+        {
+          "text": "Just a sec"
+        },
+        {
+          "text": "Can you wait for me?"
+        },
+        {
+          "text": "In a moment"
+        },
+        {
+          "text": "I would like to put you on hold"
+        },
+        {
+          "text": "I will be back"
+        },
+        {
+          "text": "I want stop a moment"
+        },
+        {
+          "text": "Hold on"
+        },
+        {
+          "text": "Give me a second"
+        },
+        {
+          "text": "Give me a moment"
+        },
+        {
+          "text": "Back again soon"
+        },
+        {
+          "text": "Be patient with me"
+        }
+      ],
+      "description": "Indicate a delay in providing input to the bot."
+    },
+    {
+      "intent": "Greetings",
+      "examples": [
+        {
+          "text": "good afternoon"
+        },
+        {
+          "text": "good night"
+        },
+        {
+          "text": "how are you?"
+        },
+        {
+          "text": "hola"
+        },
+        {
+          "text": "hello"
+        },
+        {
+          "text": "hi"
+        },
+        {
+          "text": "good evening"
+        },
+        {
+          "text": "good morning"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Positive_Feedback",
+      "examples": [
+        {
+          "text": "This is good"
+        },
+        {
+          "text": "You've been so helpful :)"
+        },
+        {
+          "text": "You're a genius!"
+        },
+        {
+          "text": "You the man"
+        },
+        {
+          "text": "You gave me exactly what I need!"
+        },
+        {
+          "text": "You are wonderful"
+        },
+        {
+          "text": "You are the best"
+        },
+        {
+          "text": "You are great"
+        },
+        {
+          "text": "Brilliant!"
+        },
+        {
+          "text": "Can't believe you are that good"
+        },
+        {
+          "text": "How cool is this?"
+        },
+        {
+          "text": "I like what you did there! :)"
+        },
+        {
+          "text": "I'm looking forward to working with you again! :)"
+        },
+        {
+          "text": "Love your work"
+        },
+        {
+          "text": "Ok thank you"
+        },
+        {
+          "text": "You are awesome"
+        },
+        {
+          "text": "This is so cool"
+        },
+        {
+          "text": "This is great"
+        },
+        {
+          "text": "Thank you"
+        }
+      ],
+      "description": "Express positive sentiment or gratitude."
+    },
+    {
+      "intent": "General_Greetings",
+      "examples": [
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Hello I am looking for some help here"
+        },
+        {
+          "text": "Hello Agent"
+        },
+        {
+          "text": "Have you been well?"
+        },
+        {
+          "text": "Greetings"
+        },
+        {
+          "text": "Good to see you"
+        },
+        {
+          "text": "Good evening"
+        },
+        {
+          "text": "Good day"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "You there"
+        },
+        {
+          "text": "Who is this?"
+        },
+        {
+          "text": "What's up?"
+        },
+        {
+          "text": "What's new?"
+        },
+        {
+          "text": "Ok take me back"
+        },
+        {
+          "text": "Looking good eve"
+        },
+        {
+          "text": "How r u?"
+        },
+        {
+          "text": "How is it going?"
+        },
+        {
+          "text": "How have you been?"
+        },
+        {
+          "text": "How are you today?"
+        },
+        {
+          "text": "How are things going?"
+        },
+        {
+          "text": "Hi there"
+        },
+        {
+          "text": "Hi advisor"
+        },
+        {
+          "text": "Hey you"
+        },
+        {
+          "text": "Hey twin"
+        },
+        {
+          "text": "Hey there"
+        },
+        {
+          "text": "Hey there all"
+        },
+        {
+          "text": "Hey how are you doing"
+        }
+      ],
+      "description": "Greet the bot."
+    },
+    {
+      "intent": "Question",
+      "examples": [
+        {
+          "text": "How are you?"
+        },
+        {
+          "text": "how are you doing?"
+        },
+        {
+          "text": "how are you holding up?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Enquiry",
+      "examples": [
+        {
+          "text": "list of rice bowls in the warehouse?"
+        },
+        {
+          "text": "list of salads in the warehouse?"
+        },
+        {
+          "text": "list of fish in the warehouse?"
+        },
+        {
+          "text": "list of starters in the warehouse?"
+        },
+        {
+          "text": "list of sandwich in the warehouse?"
+        },
+        {
+          "text": "list of desert in the warehouse?"
+        },
+        {
+          "text": "list of biryani in the warehouse?"
+        },
+        {
+          "text": "list of pasta in the warehouse?"
+        },
+        {
+          "text": "list of other snacks in the warehouse?"
+        },
+        {
+          "text": "list of soup in the warehouse?"
+        },
+        {
+          "text": "list of burgers in the warehouse?"
+        },
+        {
+          "text": "list of biriyani in the warehouse?"
+        },
+        {
+          "text": "list of extras in the warehouse?"
+        },
+        {
+          "text": "list of pizza in the warehouse?"
+        },
+        {
+          "text": "list of beverages in the warehouse?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Jokes",
+      "examples": [
+        {
+          "text": "One more joke"
+        },
+        {
+          "text": "Surprise me with something hilarious"
+        },
+        {
+          "text": "Tell me a joke"
+        },
+        {
+          "text": "Another joke"
+        },
+        {
+          "text": "Are there jokes?"
+        },
+        {
+          "text": "Can you tell a joke?"
+        },
+        {
+          "text": "Can you tell me a joke?"
+        },
+        {
+          "text": "Do you have a joke?"
+        },
+        {
+          "text": "Do you have humor?"
+        },
+        {
+          "text": "Do you like fun?"
+        },
+        {
+          "text": "Do you like humor?"
+        },
+        {
+          "text": "I am getting bored"
+        },
+        {
+          "text": "I want a joke"
+        },
+        {
+          "text": "What is your favorite joke?"
+        },
+        {
+          "text": "Tell me something funny"
+        },
+        {
+          "text": "What do you do for fun?"
+        },
+        {
+          "text": "I'm bored"
+        }
+      ],
+      "description": "Request a joke."
+    },
+    {
+      "intent": "General_Agent_Capabilities",
+      "examples": [
+        {
+          "text": "What can I ask you to do?"
+        },
+        {
+          "text": "How do I use you?"
+        },
+        {
+          "text": "I do not know what to ask"
+        },
+        {
+          "text": "Can you please give me a list of the types of things you can help me with?"
+        },
+        {
+          "text": "Can you tell me what services you are able to help me with?"
+        },
+        {
+          "text": "Do you have a list of things I can talk to you about?"
+        },
+        {
+          "text": "Help now"
+        },
+        {
+          "text": "Hi, what do you do?"
+        },
+        {
+          "text": "How can I use you?"
+        },
+        {
+          "text": "How can you help me?"
+        },
+        {
+          "text": "How can you solve my problems?"
+        },
+        {
+          "text": "I'd like to know what type of questions you can answer for me."
+        },
+        {
+          "text": "Is there anything you can help me with?"
+        },
+        {
+          "text": "Tell me about what kind of things you do?"
+        },
+        {
+          "text": "Tell me something"
+        },
+        {
+          "text": "What are my options that you can help with?"
+        },
+        {
+          "text": "What are my options?"
+        },
+        {
+          "text": "What are you able to deal with?"
+        },
+        {
+          "text": "What are you able to understand?"
+        },
+        {
+          "text": "What are you capable of?"
+        },
+        {
+          "text": "What are you good at?"
+        },
+        {
+          "text": "What are you used for?"
+        },
+        {
+          "text": "What are your skills?"
+        },
+        {
+          "text": "What do you do?"
+        },
+        {
+          "text": "What do you handle?"
+        },
+        {
+          "text": "What else can you help me with?"
+        },
+        {
+          "text": "What features are in here?"
+        },
+        {
+          "text": "What is this 4?"
+        },
+        {
+          "text": "What kinds of things can you do?"
+        },
+        {
+          "text": "Where can I find the frequently asked questions?"
+        }
+      ],
+      "description": "Request capabilities of the bot."
+    },
+    {
+      "intent": "Bot_Control_Ignore_Undo",
+      "examples": [
+        {
+          "text": "Never mind"
+        },
+        {
+          "text": "Let us redo that again!"
+        },
+        {
+          "text": "It's not what I mean"
+        },
+        {
+          "text": "Ignore this"
+        },
+        {
+          "text": "I didn't mean to do that actually, let's go back"
+        },
+        {
+          "text": "I did not mean that?"
+        },
+        {
+          "text": "Not yet"
+        },
+        {
+          "text": "Nothing"
+        },
+        {
+          "text": "Wait! Let's back up few steps and do that again"
+        },
+        {
+          "text": "Actually, I take that back"
+        },
+        {
+          "text": "Cancel"
+        },
+        {
+          "text": "Hold on! I think I want to do it differently."
+        },
+        {
+          "text": "I change my mind."
+        },
+        {
+          "text": "Never"
+        }
+      ],
+      "description": "Ask the bot to take one step back."
+    },
+    {
+      "intent": "Bot_Control_Confirm_Presence",
+      "examples": [
+        {
+          "text": "Speak to me if you are there."
+        },
+        {
+          "text": "I am still holding"
+        },
+        {
+          "text": "Is anybody here?"
+        },
+        {
+          "text": "Is anybody home?"
+        },
+        {
+          "text": "Where'd you go?"
+        },
+        {
+          "text": "You around?"
+        },
+        {
+          "text": "Anyone there?"
+        },
+        {
+          "text": "Am I talking to someone?"
+        },
+        {
+          "text": "Are you leaving me?"
+        },
+        {
+          "text": "Are you on?"
+        },
+        {
+          "text": "Are you still around?"
+        },
+        {
+          "text": "Are you still here with me?"
+        },
+        {
+          "text": "Are you there?"
+        },
+        {
+          "text": "Did you go somewhere?"
+        },
+        {
+          "text": "Did you hear what I said?"
+        },
+        {
+          "text": "Have I lost you?"
+        }
+      ],
+      "description": "Ask the bot to indicate that it is available."
+    },
+    {
+      "intent": "Bot_Control_Approve_Response",
+      "examples": [
+        {
+          "text": "Affirmative. That's what I'm looking for."
+        },
+        {
+          "text": "All right"
+        },
+        {
+          "text": "Correct"
+        },
+        {
+          "text": "That is precisely what I was looking for"
+        },
+        {
+          "text": "For sure!"
+        },
+        {
+          "text": "Got it"
+        },
+        {
+          "text": "Great"
+        },
+        {
+          "text": "I agree"
+        },
+        {
+          "text": "I like that"
+        },
+        {
+          "text": "Indeed!"
+        },
+        {
+          "text": "Sure thing!"
+        },
+        {
+          "text": "Sweet"
+        },
+        {
+          "text": "100"
+        },
+        {
+          "text": "You read my mind"
+        },
+        {
+          "text": "Yes"
+        },
+        {
+          "text": "Yeah, that's it!"
+        },
+        {
+          "text": "Very well. Let's do it."
+        },
+        {
+          "text": "This is alright"
+        },
+        {
+          "text": "That's exactly what I want"
+        },
+        {
+          "text": "That is right"
+        },
+        {
+          "text": "That is what I need"
+        },
+        {
+          "text": "That is the proper response."
+        }
+      ],
+      "description": "Acknowledge that the response satisfies a question."
+    },
+    {
+      "intent": "Bot_Control_Start_Over",
+      "examples": [
+        {
+          "text": "We need a do-over"
+        },
+        {
+          "text": "We will need to begin again"
+        },
+        {
+          "text": "Start over"
+        },
+        {
+          "text": "Restart"
+        },
+        {
+          "text": "Please start a new chat"
+        },
+        {
+          "text": "Please reset"
+        },
+        {
+          "text": "Please initiate from the beginning"
+        },
+        {
+          "text": "One more time from the beginning"
+        },
+        {
+          "text": "Let's pick this up from the top again."
+        },
+        {
+          "text": "Let's go back to square one"
+        },
+        {
+          "text": "Let us reopen this again."
+        },
+        {
+          "text": "I would like to start all over"
+        },
+        {
+          "text": "I want start from the beginning"
+        },
+        {
+          "text": "I need to reset."
+        },
+        {
+          "text": "How can I start over?"
+        },
+        {
+          "text": "Can we please start over?"
+        },
+        {
+          "text": "Begin over!"
+        },
+        {
+          "text": "Back to the top"
+        },
+        {
+          "text": "Back to the beginning"
+        },
+        {
+          "text": "Actually, let's start over"
+        }
+      ],
+      "description": "Restart bot or current flow."
+    },
+    {
+      "intent": "Order",
+      "examples": [
+        {
+          "text": "Please, take my order"
+        },
+        {
+          "text": "please order"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Bot_Control_Reject_Response",
+      "examples": [
+        {
+          "text": "That answer is incorrect"
+        },
+        {
+          "text": "Not the right response"
+        },
+        {
+          "text": "No"
+        },
+        {
+          "text": "No I'm fine thanks"
+        },
+        {
+          "text": "It is not what I was looking for"
+        },
+        {
+          "text": "It is not what I want"
+        },
+        {
+          "text": "I wasn't looking for that"
+        },
+        {
+          "text": "I don't want that"
+        },
+        {
+          "text": "I don't need that"
+        },
+        {
+          "text": "That sounds like the wrong response"
+        },
+        {
+          "text": "I disagree"
+        },
+        {
+          "text": "Bad response"
+        },
+        {
+          "text": "That was not my intent"
+        },
+        {
+          "text": "That was wrong, try again"
+        },
+        {
+          "text": "Wrong response"
+        },
+        {
+          "text": "You did not understand what I asked"
+        },
+        {
+          "text": "You did not understand what I said"
+        },
+        {
+          "text": "You didn't understand me"
+        },
+        {
+          "text": "You're misunderstanding me"
+        },
+        {
+          "text": "I do not think it is the answer?"
+        },
+        {
+          "text": "That is not true"
+        }
+      ],
+      "description": "Indicate the bot's response does not address a question."
+    },
+    {
+      "intent": "Bot_Control_Unsure",
+      "examples": [
+        {
+          "text": "No clue"
+        },
+        {
+          "text": "I don t know what you need"
+        },
+        {
+          "text": "I don t know what you want"
+        },
+        {
+          "text": "I have no idea, actually"
+        },
+        {
+          "text": "I have no idea what you are looking for"
+        },
+        {
+          "text": "I haven't got a clue"
+        },
+        {
+          "text": "I m not certain I get what you re saying"
+        },
+        {
+          "text": "I m not sure what will make you happy"
+        },
+        {
+          "text": "I m not yet convinced"
+        },
+        {
+          "text": "No idea"
+        },
+        {
+          "text": "To be honest, I m really not sure"
+        },
+        {
+          "text": "You got me"
+        }
+      ],
+      "description": "Indicate no definite answer to a question."
+    },
+    {
+      "intent": "General_Human_or_Bot",
+      "examples": [
+        {
+          "text": "Is this a computer?"
+        },
+        {
+          "text": "Are you real?"
+        },
+        {
+          "text": "Are you human?"
+        },
+        {
+          "text": "Are you even real?"
+        },
+        {
+          "text": "Are you a robot?"
+        },
+        {
+          "text": "Are you a human or a bot?"
+        },
+        {
+          "text": "Am I talking to a person or am I talking to an AI?"
+        },
+        {
+          "text": "Am I talking to a Bot?"
+        },
+        {
+          "text": "Am I talking to Watson?"
+        },
+        {
+          "text": "Am I chatting with a human?"
+        },
+        {
+          "text": "Tell me, are you a human or no?"
+        },
+        {
+          "text": "How can you prove you are a human?"
+        }
+      ],
+      "description": "Ask if speaking to a human or a bot."
+    },
+    {
+      "intent": "General_About_You",
+      "examples": [
+        {
+          "text": "Do you know who you are?"
+        },
+        {
+          "text": "How do you function?"
+        },
+        {
+          "text": "How old are you?"
+        },
+        {
+          "text": "I want to set up the chat bot for my shop"
+        },
+        {
+          "text": "Introduce your self"
+        },
+        {
+          "text": "Let us talk about you"
+        },
+        {
+          "text": "Tell me about your life"
+        },
+        {
+          "text": "What languages do you speak?"
+        },
+        {
+          "text": "Tell me something about yourself"
+        },
+        {
+          "text": "What should I know about you?"
+        },
+        {
+          "text": "What's your name?"
+        },
+        {
+          "text": "Where are you from?"
+        },
+        {
+          "text": "Where were you born?"
+        },
+        {
+          "text": "Who are you?"
+        },
+        {
+          "text": "Why are you here?"
+        },
+        {
+          "text": "How can I configure you?"
+        },
+        {
+          "text": "About you"
+        },
+        {
+          "text": "Can I use another language?"
+        },
+        {
+          "text": "Describe your self"
+        },
+        {
+          "text": "Do you have a name?"
+        }
+      ],
+      "description": "Request generic personal attributes."
+    }
+  ],
+  "entities": [
+    {
+      "entity": "month",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "may",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "march",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "february",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "january",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "april",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "month",
+          "synonyms": [
+            "date",
+            "temperature",
+            "humidity",
+            "rainfall",
+            "any tips",
+            "few suggestion",
+            "any suggestion",
+            "few tips",
+            "an idea",
+            "any idea",
+            "few ideas",
+            "some tips",
+            "some ideas",
+            "suggestion"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "november",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "october",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "august",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "december",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "september",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "june",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "july",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "order",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "order",
+          "synonyms": [
+            "place",
+            "buy",
+            "acquire",
+            "store"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "question",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "how are you",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "good",
+          "synonyms": [
+            "fine",
+            "awesome",
+            "splendid",
+            "smooth",
+            "well"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "not good",
+          "synonyms": [
+            "bad",
+            "been better",
+            "not well"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "welcome",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "welcome",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-date",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "shelflife",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "shelf life",
+          "synonyms": [
+            "how long till it goes bad",
+            "how long does it stay fresh",
+            "goes bad",
+            "stays fresh"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "anythingelse",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "pause",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Greetings",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "good afternoon",
+          "synonyms": [
+            "afternoon",
+            "afternun"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "good night",
+          "synonyms": [
+            "night"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Bye",
+          "synonyms": [
+            "tata",
+            "see you",
+            "so long",
+            "adieu",
+            "farewell"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "hi",
+          "synonyms": [
+            "hi",
+            "hello",
+            "yo",
+            "hola"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "hello",
+          "synonyms": [
+            "hellow",
+            "hey",
+            "hola",
+            "yo",
+            "heya",
+            "sup"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "good morning",
+          "synonyms": [
+            "gm",
+            "morning",
+            "gud morning",
+            "gud mrning",
+            "gd mrng"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "last",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "oh yes",
+          "synonyms": [
+            "yes",
+            "can you help me",
+            "with"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "no",
+          "synonyms": [
+            "we are done",
+            "done",
+            "finished",
+            "i am done"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Enquiry",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "sandwich",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "burgers",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "soup",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "weather",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "stock",
+          "synonyms": [
+            "number",
+            "items",
+            "storage",
+            "supplies"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Center",
+          "synonyms": [
+            "Restaurant",
+            "place",
+            "region",
+            "city",
+            "neighbourhood"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "desert",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "seafood",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "fish",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "pasta",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "pizza",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "biryani",
+          "synonyms": [
+            "biriyani"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "snacks",
+          "synonyms": [
+            "other snacks"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "starters",
+          "synonyms": [
+            "starter",
+            "appetizer"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "beverage",
+          "synonyms": [
+            "drinks",
+            "hard drinks",
+            "soft drinks"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "extras",
+          "synonyms": [
+            "sides"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "salad",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-number",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "god",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "God",
+          "synonyms": [
+            "is there a god",
+            "do you believe in god"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "best",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Best",
+          "synonyms": [
+            "great",
+            "awesome",
+            "phenomenal"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "tellfunny",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "hear something funny",
+          "synonyms": [
+            "listen funny",
+            "hear funny",
+            "read something funny",
+            "listen something funny",
+            "read funny",
+            "want to laugh",
+            "hear a joke",
+            "listen to a joke",
+            "read a joke"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "March",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "March being the third month of the year is moderate, with an average temperature of 25 degree celcius, and an average humidity of around 69%. I would suggest good storage of food items in dry and temperature controlled area, be aware of rats and mice infesting your beloved stocks dear foodie!  "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1592578546585",
+      "conditions": "@month:march",
+      "dialog_node": "node_1_1592578957790",
+      "previous_sibling": "node_4_1592578840411"
+    },
+    {
+      "type": "standard",
+      "title": "August",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The monsoons are here mate! with an average temperature of 34 degree celcius and humidity of around 85%, you would want to check on your drainage systems to avoid water clogging. Check for mould and fungus growths, and for God's sake! don't forget to carry an umbrella."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1592578546585",
+      "conditions": "@month:august",
+      "dialog_node": "node_8_1592579738222",
+      "previous_sibling": "node_9_1592579591603"
+    },
+    {
+      "type": "standard",
+      "title": "April",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "April being the fourth month of the year is relatively hot, with an average temperature of 30 degree celcius, and an average humidity of around 46%. I would suggest using a proper cold storage with regular inspection and maintenance. A periodic disinfection would go a long way. Enjoy the Spring though!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1592578546585",
+      "conditions": "@month:april",
+      "dialog_node": "node_3_1592579095145",
+      "previous_sibling": "node_1_1592578957790"
+    },
+    {
+      "type": "standard",
+      "title": "November",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "With an average temperature of around 23 degree celcius and mean humidity at 71%, November is one fine month to enjoy the joys of life. Not to worry about your stock is what I'll suggest you. They're just fine. And remember, Nothing lasts forever, not even cold november rain!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1592578546585",
+      "conditions": "@month:november",
+      "dialog_node": "node_1_1592580416471",
+      "previous_sibling": "node_2_1592580251303"
+    },
+    {
+      "type": "standard",
+      "title": "October",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "We're almost there! hope the year is turning out to be really good for you. Average temperatures will swing in the range of 25 degree celcius, with average humidity around 70%. Let's prepare for the yulitide season and stock up really fast."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1592578546585",
+      "conditions": "@month:october",
+      "dialog_node": "node_2_1592580251303",
+      "previous_sibling": "node_5_1592579914117"
+    },
+    {
+      "type": "standard",
+      "title": "June",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Now these are really hot months I believe! Temperatures will reach a staggering 38 degrees celcius with average humidity at 55%. Keep a fresh stock if possible and avoid over storing the units. Don't forget to hydrate yourself though."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1592578546585",
+      "conditions": "@month:june",
+      "dialog_node": "node_1_1592579423784",
+      "previous_sibling": "node_3_1592579271830"
+    },
+    {
+      "type": "standard",
+      "title": "May",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I know it'll get hot out there! phew! average temperatures will soar to 35 degree celcius with average humidity dropping to 45%. Look after that cold storage of your's and apply sunscreen while you go out! "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1592578546585",
+      "conditions": "@month:may",
+      "dialog_node": "node_3_1592579271830",
+      "previous_sibling": "node_3_1592579095145"
+    },
+    {
+      "type": "standard",
+      "title": "July",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "July being the sixth month of the year is also the hottest, with an average temperature of 35 degree celcius, and an average humidity of around 77%. I would suggest that you store only what's required and have a check on the power supply units, you don't wanna fall amidst a power cut!  Drink loads of water and apply sunscreen while out! "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1592578546585",
+      "conditions": "@month:july",
+      "dialog_node": "node_9_1592579591603",
+      "previous_sibling": "node_1_1592579423784"
+    },
+    {
+      "type": "standard",
+      "title": "December",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "With the end of the year round the corner, I want to thank you for your perseverance and grit! kudos mate! I know that sales are high right now and you're in no mood to joke around, but its chilly out there mate! grab an overcoat, raise a toast, its that time of the year again. Jingle all the way Mate!  "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1592578546585",
+      "conditions": "@month:december",
+      "dialog_node": "node_4_1592580615089",
+      "previous_sibling": "node_1_1592580416471"
+    },
+    {
+      "type": "standard",
+      "title": "September",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Temperatures are dropping I believe, with an average of around 29 degree celcius and humidity in the range of 86%. No worries in this month mate! just keep up the high spirits."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1592578546585",
+      "conditions": "@month:september",
+      "dialog_node": "node_5_1592579914117",
+      "previous_sibling": "node_8_1592579738222"
+    },
+    {
+      "type": "standard",
+      "title": "February",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "February is the second month of the year and is moderate, with an average temperature of 24 degree celcius, and an average humidity of around 71%. I would suggest good storage of food items in dry and temperature controlled area. Spring is knocking at your door! let the flowers bloom. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1592578546585",
+      "conditions": "@month:february",
+      "dialog_node": "node_4_1592578840411",
+      "previous_sibling": "node_5_1592578658005"
+    },
+    {
+      "type": "standard",
+      "title": "January",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "January being the first month of the year is relatively cold, with an average temperature of 22.5 degree celcius, and an average humidity of around 79%. I would suggest good storage of food items in dry and temperature controlled area, although there is almost no worries in January. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1592578546585",
+      "conditions": "@month:january",
+      "dialog_node": "node_5_1592578658005"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Hey! Go on ask me for a joke.",
+            "Hi! I can give you some tips and stock updates.",
+            "Heya there!"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1590730179024",
+      "conditions": "@Greetings:hello",
+      "dialog_node": "response_6_1590731169713",
+      "previous_sibling": "response_8_1590731056726"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I wish you a very good afternoon to you!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1590730179024",
+      "conditions": "@Greetings:(good afternoon)",
+      "dialog_node": "response_6_1592403827365",
+      "previous_sibling": "response_6_1590731169713"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Wish you a very good morning"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1590730179024",
+      "conditions": "@Greetings:(good morning)",
+      "dialog_node": "response_8_1590731056726",
+      "previous_sibling": "response_4_1590731099853"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Good night. Sleep tight."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1590730179024",
+      "conditions": "@Greetings:(good night)",
+      "dialog_node": "response_6_1592404025822",
+      "previous_sibling": "response_6_1592403827365"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "So long fair. Take care! and don't waste food. "
+              },
+              {
+                "text": "Toodles mate! So long."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1590730179024",
+      "conditions": "@Greetings:Bye",
+      "dialog_node": "response_2_1592708029138",
+      "previous_sibling": "response_6_1592404025822"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Hello! Go on, ask me for a joke.",
+            "Hello! I can give you some tips and stock updates."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1590730179024",
+      "conditions": "@Greetings:hi",
+      "dialog_node": "response_4_1590731099853"
+    },
+    {
+      "type": "standard",
+      "title": "negative",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Alright then, I hope I was able to answer all your queries."
+              },
+              {
+                "text": "Sure thing, don't forget to ping me up if the need be."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1592629215047",
+      "conditions": "@last:no",
+      "dialog_node": "node_9_1592629554264",
+      "previous_sibling": "node_5_1592629472393"
+    },
+    {
+      "type": "standard",
+      "title": "positive",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sure mate. Go ahead and ask me something more."
+              },
+              {
+                "text": "Of course, more questions, mate!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1592629215047",
+      "conditions": "@last:(oh yes)",
+      "dialog_node": "node_5_1592629472393"
+    },
+    {
+      "type": "standard",
+      "title": "answer2",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I am sure that it gets better with time. Hang in there mate!"
+              },
+              {
+                "text": "No issues! We'll unravel a silver lining together mate!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1592543581019",
+      "conditions": "@question:(not good)",
+      "dialog_node": "node_10_1592543871259",
+      "previous_sibling": "node_1_1592543781300"
+    },
+    {
+      "type": "standard",
+      "title": "answer",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Well, I am so glad to hear that."
+              },
+              {
+                "text": "I am sure you'll keep up the high spirits!"
+              },
+              {
+                "text": "Cheers to life mate!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1592543581019",
+      "conditions": "@question:good",
+      "dialog_node": "node_1_1592543781300"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Please mention the quantity."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_2_1590734016148",
+      "event_name": "focus",
+      "dialog_node": "handler_10_1590734016154",
+      "previous_sibling": "handler_7_1590734016154"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_2_1590734016148",
+      "context": {
+        "number": "@sys-number"
+      },
+      "conditions": "@sys-number",
+      "event_name": "input",
+      "dialog_node": "handler_7_1590734016154"
+    },
+    {
+      "type": "standard",
+      "title": "Customer name",
+      "parent": "Welcome",
+      "conditions": "@sys-number",
+      "dialog_node": "node_10_1590735145637"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "The stock list of Salads:",
+            "options": [
+              {
+                "label": "Caesar's Salad",
+                "value": {
+                  "input": {
+                    "text": "100"
+                  }
+                }
+              },
+              {
+                "label": "Green Salad",
+                "value": {
+                  "input": {
+                    "text": "100"
+                  }
+                }
+              },
+              {
+                "label": "Rocket and Herbs salad with chicken",
+                "value": {
+                  "input": {
+                    "text": "100"
+                  }
+                }
+              }
+            ],
+            "description": "This is the updated stock lists of salad at The Czar's Warehouse.",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_2_1590731713946",
+      "conditions": "@Enquiry:salad",
+      "dialog_node": "response_9_1592321073261",
+      "previous_sibling": "response_1_1592321071501"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "List of Warehouse Items:\n\nBeverage (Indian, Italian, Thai, Continental)\n\nBiryani (Indian)\n\nFish (Continental)\n\nDesert (Indian)\n\nExtras (Thai)\n\nOther Snacks (Thai)\n\nPasta (Italian)\n\nPizza (Continental)\n\nRice Bowl (Indian)\n\nSalad (Italian)\n\nSandwich (Italian)\n\nSoup (Thai)\n\nSeafood (Continental)\n\nStarters (Thai)\n\nTotal : 5100 units in storage at The Czar's Warehouse."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1590731713946",
+      "conditions": "@Enquiry:stock",
+      "dialog_node": "response_8_1592321063777",
+      "previous_sibling": "response_7_1592321059897"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "The list of Soups:",
+            "options": [
+              {
+                "label": "Fish ball soup",
+                "value": {
+                  "input": {
+                    "text": "100"
+                  }
+                }
+              },
+              {
+                "label": "Sweet corn soup",
+                "value": {
+                  "input": {
+                    "text": "100"
+                  }
+                }
+              },
+              {
+                "label": "Thai Green Soup",
+                "value": {
+                  "input": {
+                    "text": "100"
+                  }
+                }
+              }
+            ],
+            "description": "This is the updated stock list of soups at The Czar's Warehouse.",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_2_1590731713946",
+      "conditions": "@Enquiry:soup",
+      "dialog_node": "response_9_1592326268554",
+      "previous_sibling": "response_9_1592321073261"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "The stock list of Extras:",
+            "options": [
+              {
+                "label": "Phak Chi (Coriander)",
+                "value": {
+                  "input": {
+                    "text": "100"
+                  }
+                }
+              },
+              {
+                "label": "Bak Choy (Lettuce Cabbage)",
+                "value": {
+                  "input": {
+                    "text": "100"
+                  }
+                }
+              },
+              {
+                "label": "Soy Sauce",
+                "value": {
+                  "input": {
+                    "text": "100"
+                  }
+                }
+              }
+            ],
+            "description": "This is the updated stock lists of extras at The Czar's Warehouse.",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_2_1590731713946",
+      "conditions": "@Enquiry:extras",
+      "dialog_node": "response_1_1592321071501",
+      "previous_sibling": "response_7_1592321068367"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "The starter list:",
+            "options": [
+              {
+                "label": "Noodle Soup",
+                "value": {
+                  "input": {
+                    "text": "100"
+                  }
+                }
+              },
+              {
+                "label": "Tofu Salad",
+                "value": {
+                  "input": {
+                    "text": "100"
+                  }
+                }
+              },
+              {
+                "label": "Dumplings",
+                "value": {
+                  "input": {
+                    "text": "100"
+                  }
+                }
+              }
+            ],
+            "description": "This is the updated stock list of starters at The Czar's Warehouse.",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_2_1590731713946",
+      "conditions": "@Enquiry:starters",
+      "dialog_node": "response_5_1592326273688",
+      "previous_sibling": "response_3_1592326272004"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "Warehouse Fish Stock:",
+            "options": [
+              {
+                "label": "Salmon",
+                "value": {
+                  "input": {
+                    "text": "100"
+                  }
+                }
+              },
+              {
+                "label": "Trout",
+                "value": {
+                  "input": {
+                    "text": "100"
+                  }
+                }
+              },
+              {
+                "label": "Swordfish",
+                "value": {
+                  "input": {
+                    "text": "100"
+                  }
+                }
+              }
+            ],
+            "description": "This is the updated stock lists of fishes at The Czar's Warehouse.",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_2_1590731713946",
+      "conditions": "@Enquiry:fish",
+      "dialog_node": "response_7_1592321059897",
+      "previous_sibling": "response_3_1590731870292"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "List of Pastas:",
+            "options": [
+              {
+                "label": "Linguini",
+                "value": {
+                  "input": {
+                    "text": "100"
+                  }
+                }
+              },
+              {
+                "label": "Raviolli",
+                "value": {
+                  "input": {
+                    "text": "100"
+                  }
+                }
+              },
+              {
+                "label": "Spaghetti",
+                "value": {
+                  "input": {
+                    "text": "100"
+                  }
+                }
+              }
+            ],
+            "description": "This is the updated stock list of pastas at The Czar's Warehouse.",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_2_1590731713946",
+      "conditions": "@Enquiry:pasta",
+      "dialog_node": "response_6_1592326282674",
+      "previous_sibling": "response_5_1592326279751"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "The list of Sandwiches available:",
+            "options": [
+              {
+                "label": "Pastrami",
+                "value": {
+                  "input": {
+                    "text": "100"
+                  }
+                }
+              },
+              {
+                "label": "Salami",
+                "value": {
+                  "input": {
+                    "text": "100"
+                  }
+                }
+              },
+              {
+                "label": "Turkey",
+                "value": {
+                  "input": {
+                    "text": "100"
+                  }
+                }
+              }
+            ],
+            "description": "This is the updated stock list of sandwiches at The Czar's Warehouse.",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_2_1590731713946",
+      "conditions": "@Enquiry:sandwich",
+      "dialog_node": "response_3_1592326272004",
+      "previous_sibling": "response_9_1592326268554"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Although a detailed information regarding our available Centers are provided in the About Tab, one can always visit the link:\nhttps://docs.google.com/spreadsheets/d/17qLXzTYmQu1O7cI33ZOHVwR8llIunAiZz4I8TPe56cQ/edit?usp=sharing\nto get a better understanding."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1590731713946",
+      "conditions": "@Enquiry:Center",
+      "dialog_node": "response_9_1592365210176",
+      "previous_sibling": "response_6_1592326282674"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "The Biryani List:",
+            "options": [
+              {
+                "label": "Kolkata Biryani",
+                "value": {
+                  "input": {
+                    "text": "100"
+                  }
+                }
+              },
+              {
+                "label": "Hyderabadi Biryani",
+                "value": {
+                  "input": {
+                    "text": "100"
+                  }
+                }
+              },
+              {
+                "label": "Lahori Biryani",
+                "value": {
+                  "input": {
+                    "text": "100"
+                  }
+                }
+              }
+            ],
+            "description": "This is the updated stock list of biryani at The Czar's Warehouse.",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_2_1590731713946",
+      "conditions": "@Enquiry:biryani",
+      "dialog_node": "response_3_1592326277970",
+      "previous_sibling": "response_6_1592326275347"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "List of Desert Items in the Stock:",
+            "options": [
+              {
+                "label": "Gulaab Jaamun",
+                "value": {
+                  "input": {
+                    "text": "100"
+                  }
+                }
+              },
+              {
+                "label": "Ras Malai",
+                "value": {
+                  "input": {
+                    "text": "100"
+                  }
+                }
+              },
+              {
+                "label": "Kulfi",
+                "value": {
+                  "input": {
+                    "text": "100"
+                  }
+                }
+              }
+            ],
+            "description": "This list contains all the Desert items contained within the warehouses at The Czar's.",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_2_1590731713946",
+      "conditions": "@Enquiry:desert",
+      "dialog_node": "response_7_1592321068367",
+      "previous_sibling": "response_6_1592321066448"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "Warehouse Stock list of Seafood Items:",
+            "options": [
+              {
+                "label": "Clams",
+                "value": {
+                  "input": {
+                    "text": "100"
+                  }
+                }
+              },
+              {
+                "label": "Crabs",
+                "value": {
+                  "input": {
+                    "text": "100"
+                  }
+                }
+              },
+              {
+                "label": "Lobster",
+                "value": {
+                  "input": {
+                    "text": "100"
+                  }
+                }
+              }
+            ],
+            "description": "This list contains the list of Seafood items at The Czar's Warehouse.",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_2_1590731713946",
+      "conditions": "@Enquiry:seafood",
+      "dialog_node": "response_6_1592321066448",
+      "previous_sibling": "response_8_1592321063777"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "The list of Pizza:",
+            "options": [
+              {
+                "label": "Plain Crust Pizza",
+                "value": {
+                  "input": {
+                    "text": "100"
+                  }
+                }
+              },
+              {
+                "label": "Thin crust Pizza",
+                "value": {
+                  "input": {
+                    "text": "100"
+                  }
+                }
+              },
+              {
+                "label": "Deep dish Pizza",
+                "value": {
+                  "input": {
+                    "text": "100"
+                  }
+                }
+              }
+            ],
+            "description": "This is the updated stock list of pizza at The Czar's Warehouse.",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_2_1590731713946",
+      "conditions": "@Enquiry:pizza",
+      "dialog_node": "response_5_1592326279751",
+      "previous_sibling": "response_3_1592326277970"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "The snacks list:",
+            "options": [
+              {
+                "label": "Crispy Prawn Balls",
+                "value": {
+                  "input": {
+                    "text": "100"
+                  }
+                }
+              },
+              {
+                "label": "Crispy Konjee Lamb",
+                "value": {
+                  "input": {
+                    "text": "100"
+                  }
+                }
+              },
+              {
+                "label": "Tempura Fry",
+                "value": {
+                  "input": {
+                    "text": "100"
+                  }
+                }
+              }
+            ],
+            "description": "This is the updated stock list of snacks at The Czar's Warehouse.",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_2_1590731713946",
+      "conditions": "@Enquiry:snacks",
+      "dialog_node": "response_6_1592326275347",
+      "previous_sibling": "response_5_1592326273688"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Warehouse Beverage Stock:\n\n* Nutriboost Smoothie (Continental)\n\n* Matcha Cucumber Lemonade (Continental)\n\n* Immunity Booster Drink (Continental)\n\n* O Liang (Thai)\n\n* Iced Cocoa (Thai)\n\n* Pink Milk (Thai)\n\n* Lassi (Indian)\n\n* Kesar Sharbat (Indian)\n\n* Nimbu Paani (Indian)\n\n* Vermouth (Italian)\n\n* Ristretto (Italian)\n\n* Bellini (Italian)\n\nOur Warehouse contains 100 units of each of the aforesaid items."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1590731713946",
+      "conditions": "@Enquiry:beverage",
+      "dialog_node": "response_3_1590731870292"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_4_1590732896500",
+      "variable": "$Enquiry",
+      "dialog_node": "slot_6_1590733946935",
+      "previous_sibling": "slot_2_1590734016148"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1590732896500",
+      "disabled": true,
+      "dialog_node": "response_5_1590733056904",
+      "previous_sibling": "slot_6_1590733946935"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_4_1590732896500",
+      "variable": "$number",
+      "dialog_node": "slot_2_1590734016148",
+      "previous_sibling": "node_4_1592370767703"
+    },
+    {
+      "type": "standard",
+      "title": "Deleting the contents",
+      "output": {
+        "Deleted": "<?context.remove('sys-number')?><?context.remove('Enquiry')?>",
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1590732896500",
+      "conditions": "true",
+      "dialog_node": "node_4_1592370767703"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "What do want to Stock?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_6_1590733946935",
+      "event_name": "focus",
+      "dialog_node": "handler_7_1590733947001",
+      "previous_sibling": "handler_4_1590733947001"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Please order correctly."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_6_1590733946935",
+      "conditions": "@sys-number",
+      "event_name": "nomatch",
+      "dialog_node": "handler_7_1590734392512",
+      "previous_sibling": "handler_3_1590734369150"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Please order from the menu."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_6_1590733946935",
+      "conditions": "@Items",
+      "event_name": "nomatch",
+      "dialog_node": "handler_3_1590734369150",
+      "previous_sibling": "handler_7_1590733947001"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_6_1590733946935",
+      "context": {
+        "Enquiry": "@Enquiry"
+      },
+      "conditions": "@Enquiry",
+      "event_name": "input",
+      "dialog_node": "handler_4_1590733947001"
+    },
+    {
+      "type": "standard",
+      "title": "month",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Oh sure! I have got some tips for you. Which month's tip would you like to have?"
+              },
+              {
+                "text": "Of course. Just tell me the month and I'll give you some heads up."
+              },
+              {
+                "text": "Just tell me the month and consider it done."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "@month:month",
+      "dialog_node": "node_7_1592578546585",
+      "previous_sibling": "node_2_1592367521369"
+    },
+    {
+      "type": "standard",
+      "title": "general question",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I am doing just fine. Thank you so much for asking!  How are you doing?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Question || @question:(how are you)",
+      "dialog_node": "node_9_1592543581019",
+      "previous_sibling": "node_7_1592578546585"
+    },
+    {
+      "type": "standard",
+      "title": "Bot-man interface",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I am as Human or as real as you think of me."
+              },
+              {
+                "text": "Now that's a tough one there!"
+              },
+              {
+                "text": "If not human, can I be a Neural God? Oh please."
+              },
+              {
+                "text": "I already have a name, Watson. How much more real do you think I can get? "
+              },
+              {
+                "text": "That depends. Am I eligible for social security?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#General_Human_or_Bot",
+      "dialog_node": "node_8_1592367301209",
+      "previous_sibling": "node_1_1590730179024"
+    },
+    {
+      "type": "frame",
+      "title": "Order",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your order to stock @sys-number of @Enquiry has been accepted successfully! Further actions are on its way!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "I don't understand."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "@Enquiry && @sys-number && @order",
+      "dialog_node": "node_4_1590732896500",
+      "previous_sibling": "node_6_1592629215047"
+    },
+    {
+      "type": "standard",
+      "title": "Greetings",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#Greetings || @Greetings",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_1_1590730179024",
+      "previous_sibling": "node_9_1592543581019"
+    },
+    {
+      "type": "standard",
+      "title": "Jokes",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Question: What is the longest word in the English language? Answer: \"Smiles\". Because there is a mile between its first and last letters!"
+              },
+              {
+                "text": "What do you call a melon that's not allowed to get married?    Can't-Elope!"
+              },
+              {
+                "text": "How do I learn new things?    Bit by bit!"
+              },
+              {
+                "text": "What did the Walnut say to the Cashew?   I wal-not let you down! Cashew trust me!"
+              },
+              {
+                "text": "What did the doughnut say to the Cuppa Coffee?    Donut leave me!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#General_Jokes",
+      "dialog_node": "node_2_1592367521369",
+      "previous_sibling": "node_1_1592583430582"
+    },
+    {
+      "type": "standard",
+      "title": "Shelf life",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Although the alcoholic beverages at your disposal might last a couple of years, the other beverages will last at best 6 months in storage. As for the soups ,starters and snacks, they have a longer shelf life, of about 18 months. The sandwiches, biryani, rice bowls and salads, they'll hardly last 2 weeks. So choose wisely, live well. And let's stick to our pledge of not wasting even an ounce of food! Cheers!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "@shelflife",
+      "dialog_node": "node_1_1592583430582",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I'm sorry, but do you need anymore help, mate?"
+              },
+              {
+                "text": "Can I help you with anything else there mate?"
+              },
+              {
+                "text": "Anything else mate?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "@anythingelse",
+      "dialog_node": "node_6_1592629215047",
+      "previous_sibling": "node_4_1592367065740"
+    },
+    {
+      "type": "standard",
+      "title": "Positive Feedback",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Oh my God! If I had cheeks, you'd have made me blush!"
+              },
+              {
+                "text": "Happy to have helped you, you're more than welcome."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#General_Positive_Feedback || @best",
+      "dialog_node": "node_7_1592366375806",
+      "previous_sibling": "node_2_1590731713946"
+    },
+    {
+      "type": "standard",
+      "title": "Negative feedback",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Stupid is as stupid does mate."
+              },
+              {
+                "text": "You shouldn't be so rude mate!"
+              },
+              {
+                "text": "Have patience matey! I'm just a bot trying to answer another!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#General_Negative_Feedback",
+      "dialog_node": "node_4_1592367065740",
+      "previous_sibling": "node_7_1592366375806"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_4_1590732896500",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Enquiry",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@Enquiry || #Enquiry",
+      "dialog_node": "node_2_1590731713946",
+      "previous_sibling": "node_10_1592588156949"
+    },
+    {
+      "type": "standard",
+      "title": "superior question",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I believe there is a God. God is a she, and she loves me."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "@god",
+      "dialog_node": "node_10_1592588156949",
+      "previous_sibling": "node_8_1592367301209"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello. Welcome to The Czar Bot! Aren't you going to greet me?!"
+              },
+              {
+                "text": "Hello! The Czar Bot welcomes you. Go on, ask me for a joke!"
+              },
+              {
+                "text": "Hello. Welcome to The Czar Bot! you can ask me how am I doing."
+              },
+              {
+                "text": "Hello! The Czar Bot welcomes you. Go on, ask me for some tips. Do not forget to thank me though."
+              },
+              {
+                "text": "Hello! The Czar Bot welcomes you. Go on, ask me about the stock and subsequent items!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "@welcome || welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "IBMHC",
+  "language": "en",
+  "description": ""
+}

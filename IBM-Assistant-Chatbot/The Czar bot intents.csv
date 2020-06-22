@@ -1,0 +1,335 @@
+Sure thing!,Bot_Control_Approve_Response
+Yes,Bot_Control_Approve_Response
+You read my mind,Bot_Control_Approve_Response
+100,Bot_Control_Approve_Response
+Affirmative. That's what I'm looking for.,Bot_Control_Approve_Response
+All right,Bot_Control_Approve_Response
+Correct,Bot_Control_Approve_Response
+For sure!,Bot_Control_Approve_Response
+Got it,Bot_Control_Approve_Response
+Great,Bot_Control_Approve_Response
+I agree,Bot_Control_Approve_Response
+I like that,Bot_Control_Approve_Response
+Indeed!,Bot_Control_Approve_Response
+Sweet,Bot_Control_Approve_Response
+That is precisely what I was looking for,Bot_Control_Approve_Response
+That is right,Bot_Control_Approve_Response
+That is the proper response.,Bot_Control_Approve_Response
+That is what I need,Bot_Control_Approve_Response
+That's exactly what I want,Bot_Control_Approve_Response
+This is alright,Bot_Control_Approve_Response
+Very well. Let's do it.,Bot_Control_Approve_Response
+"Yeah, that's it!",Bot_Control_Approve_Response
+Where'd you go?,Bot_Control_Confirm_Presence
+Did you go somewhere?,Bot_Control_Confirm_Presence
+You around?,Bot_Control_Confirm_Presence
+Did you hear what I said?,Bot_Control_Confirm_Presence
+Have I lost you?,Bot_Control_Confirm_Presence
+I am still holding,Bot_Control_Confirm_Presence
+Is anybody here?,Bot_Control_Confirm_Presence
+Is anybody home?,Bot_Control_Confirm_Presence
+Speak to me if you are there.,Bot_Control_Confirm_Presence
+Are you there?,Bot_Control_Confirm_Presence
+Are you still here with me?,Bot_Control_Confirm_Presence
+Are you still around?,Bot_Control_Confirm_Presence
+Are you on?,Bot_Control_Confirm_Presence
+Are you leaving me?,Bot_Control_Confirm_Presence
+Anyone there?,Bot_Control_Confirm_Presence
+Am I talking to someone?,Bot_Control_Confirm_Presence
+Not yet,Bot_Control_Ignore_Undo
+Never,Bot_Control_Ignore_Undo
+Never mind,Bot_Control_Ignore_Undo
+Let us redo that again!,Bot_Control_Ignore_Undo
+It's not what I mean,Bot_Control_Ignore_Undo
+Ignore this,Bot_Control_Ignore_Undo
+"I didn't mean to do that actually, let's go back",Bot_Control_Ignore_Undo
+I did not mean that?,Bot_Control_Ignore_Undo
+I change my mind.,Bot_Control_Ignore_Undo
+Hold on! I think I want to do it differently.,Bot_Control_Ignore_Undo
+Cancel,Bot_Control_Ignore_Undo
+"Actually, I take that back",Bot_Control_Ignore_Undo
+Wait! Let's back up few steps and do that again,Bot_Control_Ignore_Undo
+Nothing,Bot_Control_Ignore_Undo
+No,Bot_Control_Reject_Response
+Bad response,Bot_Control_Reject_Response
+I disagree,Bot_Control_Reject_Response
+I do not think it is the answer?,Bot_Control_Reject_Response
+I don't need that,Bot_Control_Reject_Response
+I don't want that,Bot_Control_Reject_Response
+I wasn't looking for that,Bot_Control_Reject_Response
+It is not what I want,Bot_Control_Reject_Response
+It is not what I was looking for,Bot_Control_Reject_Response
+No I'm fine thanks,Bot_Control_Reject_Response
+Not the right response,Bot_Control_Reject_Response
+That answer is incorrect,Bot_Control_Reject_Response
+That is not true,Bot_Control_Reject_Response
+That sounds like the wrong response,Bot_Control_Reject_Response
+That was not my intent,Bot_Control_Reject_Response
+"That was wrong, try again",Bot_Control_Reject_Response
+Wrong response,Bot_Control_Reject_Response
+You did not understand what I asked,Bot_Control_Reject_Response
+You didn't understand me,Bot_Control_Reject_Response
+You're misunderstanding me,Bot_Control_Reject_Response
+You did not understand what I said,Bot_Control_Reject_Response
+Just a sec,Bot_Control_Standby
+Just hold on,Bot_Control_Standby
+Keep holding,Bot_Control_Standby
+Let me see,Bot_Control_Standby
+Need a minute here,Bot_Control_Standby
+Out for a break,Bot_Control_Standby
+Wait,Bot_Control_Standby
+Be patient with me,Bot_Control_Standby
+Can you give me a moment?,Bot_Control_Standby
+Be back later,Bot_Control_Standby
+Back again soon,Bot_Control_Standby
+Can you wait for me?,Bot_Control_Standby
+Give me a few minutes to get together,Bot_Control_Standby
+Give me a moment,Bot_Control_Standby
+Give me a second,Bot_Control_Standby
+Hold on,Bot_Control_Standby
+I want stop a moment,Bot_Control_Standby
+I will be back,Bot_Control_Standby
+I would like to put you on hold,Bot_Control_Standby
+In a moment,Bot_Control_Standby
+Restart,Bot_Control_Start_Over
+Please reset,Bot_Control_Start_Over
+Please initiate from the beginning,Bot_Control_Start_Over
+One more time from the beginning,Bot_Control_Start_Over
+Let's pick this up from the top again.,Bot_Control_Start_Over
+Let's go back to square one,Bot_Control_Start_Over
+Let us reopen this again.,Bot_Control_Start_Over
+I would like to start all over,Bot_Control_Start_Over
+"Actually, let's start over",Bot_Control_Start_Over
+Back to the beginning,Bot_Control_Start_Over
+Back to the top,Bot_Control_Start_Over
+Begin over!,Bot_Control_Start_Over
+Can we please start over?,Bot_Control_Start_Over
+How can I start over?,Bot_Control_Start_Over
+I need to reset.,Bot_Control_Start_Over
+I want start from the beginning,Bot_Control_Start_Over
+Start over,Bot_Control_Start_Over
+Please start a new chat,Bot_Control_Start_Over
+We will need to begin again,Bot_Control_Start_Over
+We need a do-over,Bot_Control_Start_Over
+I m not sure what will make you happy,Bot_Control_Unsure
+I m not certain I get what you re saying,Bot_Control_Unsure
+I haven't got a clue,Bot_Control_Unsure
+"To be honest, I m really not sure",Bot_Control_Unsure
+You got me,Bot_Control_Unsure
+No clue,Bot_Control_Unsure
+I have no idea what you are looking for,Bot_Control_Unsure
+"I have no idea, actually",Bot_Control_Unsure
+I don t know what you want,Bot_Control_Unsure
+I don t know what you need,Bot_Control_Unsure
+No idea,Bot_Control_Unsure
+I m not yet convinced,Bot_Control_Unsure
+list of other snacks in the warehouse?,Enquiry
+list of beverages in the warehouse?,Enquiry
+list of pizza in the warehouse?,Enquiry
+list of extras in the warehouse?,Enquiry
+list of biriyani in the warehouse?,Enquiry
+list of burgers in the warehouse?,Enquiry
+list of soup in the warehouse?,Enquiry
+list of pasta in the warehouse?,Enquiry
+list of biryani in the warehouse?,Enquiry
+list of desert in the warehouse?,Enquiry
+list of sandwich in the warehouse?,Enquiry
+list of starters in the warehouse?,Enquiry
+list of fish in the warehouse?,Enquiry
+list of salads in the warehouse?,Enquiry
+list of rice bowls in the warehouse?,Enquiry
+Where were you born?,General_About_You
+Where are you from?,General_About_You
+What's your name?,General_About_You
+What should I know about you?,General_About_You
+What languages do you speak?,General_About_You
+Tell me something about yourself,General_About_You
+Tell me about your life,General_About_You
+About you,General_About_You
+Can I use another language?,General_About_You
+Let us talk about you,General_About_You
+Introduce your self,General_About_You
+I want to set up the chat bot for my shop,General_About_You
+How old are you?,General_About_You
+How do you function?,General_About_You
+Do you know who you are?,General_About_You
+Do you have a name?,General_About_You
+How can I configure you?,General_About_You
+Describe your self,General_About_You
+Why are you here?,General_About_You
+Who are you?,General_About_You
+How do I use you?,General_Agent_Capabilities
+Where can I find the frequently asked questions?,General_Agent_Capabilities
+What kinds of things can you do?,General_Agent_Capabilities
+What is this 4?,General_Agent_Capabilities
+What features are in here?,General_Agent_Capabilities
+What else can you help me with?,General_Agent_Capabilities
+What do you handle?,General_Agent_Capabilities
+What do you do?,General_Agent_Capabilities
+What can I ask you to do?,General_Agent_Capabilities
+What are your skills?,General_Agent_Capabilities
+What are you used for?,General_Agent_Capabilities
+What are you good at?,General_Agent_Capabilities
+What are you capable of?,General_Agent_Capabilities
+What are you able to understand?,General_Agent_Capabilities
+What are you able to deal with?,General_Agent_Capabilities
+What are my options?,General_Agent_Capabilities
+What are my options that you can help with?,General_Agent_Capabilities
+Tell me something,General_Agent_Capabilities
+Tell me about what kind of things you do?,General_Agent_Capabilities
+Is there anything you can help me with?,General_Agent_Capabilities
+I'd like to know what type of questions you can answer for me.,General_Agent_Capabilities
+How can you solve my problems?,General_Agent_Capabilities
+How can you help me?,General_Agent_Capabilities
+How can I use you?,General_Agent_Capabilities
+"Hi, what do you do?",General_Agent_Capabilities
+Help now,General_Agent_Capabilities
+Do you have a list of things I can talk to you about?,General_Agent_Capabilities
+Can you tell me what services you are able to help me with?,General_Agent_Capabilities
+Can you please give me a list of the types of things you can help me with?,General_Agent_Capabilities
+I do not know what to ask,General_Agent_Capabilities
+Hey bot go away,General_Ending
+Go away,General_Ending
+Go off,General_Ending
+Bye bye,General_Ending
+Bye now,General_Ending
+Catch you later,General_Ending
+Cya later,General_Ending
+End trial,General_Ending
+Ending this session,General_Ending
+"Finished now, good bye",General_Ending
+Get lost,General_Ending
+Going now,General_Ending
+Time to go,General_Ending
+That's everything,General_Ending
+That is all,General_Ending
+"Thanks very much, bye!",General_Ending
+"Thanks, bye!",General_Ending
+Thank you for your time,General_Ending
+Stop talking to me,General_Ending
+Stop doing this,General_Ending
+Shut up,General_Ending
+See you,General_Ending
+See you later,General_Ending
+Ok goodbye,General_Ending
+It was nice chatting with you,General_Ending
+I'm leaving now,General_Ending
+Im good thank you,General_Ending
+Im done,General_Ending
+I'm done,General_Ending
+I want to quit,General_Ending
+I have got to go,General_Ending
+I d like to stop doing this,General_Ending
+I am out of here,General_Ending
+I am leaving,General_Ending
+Good. bye.,General_Ending
+Goodbye,General_Ending
+Have a nice day?,General_Ending
+Good day,General_Greetings
+You there,General_Greetings
+Who is this?,General_Greetings
+What's up?,General_Greetings
+What's new?,General_Greetings
+Ok take me back,General_Greetings
+Looking good eve,General_Greetings
+How r u?,General_Greetings
+How is it going?,General_Greetings
+How have you been?,General_Greetings
+How are you today?,General_Greetings
+How are things going?,General_Greetings
+Hi there,General_Greetings
+Hi advisor,General_Greetings
+Hey you,General_Greetings
+Hey twin,General_Greetings
+Hey there,General_Greetings
+Hey there all,General_Greetings
+Hey how are you doing,General_Greetings
+Hello,General_Greetings
+Hello I am looking for some help here,General_Greetings
+Hello Agent,General_Greetings
+Have you been well?,General_Greetings
+Greetings,General_Greetings
+Good to see you,General_Greetings
+Good morning,General_Greetings
+Good evening,General_Greetings
+"Tell me, are you a human or no?",General_Human_or_Bot
+Are you even real?,General_Human_or_Bot
+Am I talking to a person or am I talking to an AI?,General_Human_or_Bot
+Am I talking to a Bot?,General_Human_or_Bot
+Am I talking to Watson?,General_Human_or_Bot
+Am I chatting with a human?,General_Human_or_Bot
+Is this a computer?,General_Human_or_Bot
+How can you prove you are a human?,General_Human_or_Bot
+Are you real?,General_Human_or_Bot
+Are you human?,General_Human_or_Bot
+Are you a robot?,General_Human_or_Bot
+Are you a human or a bot?,General_Human_or_Bot
+Do you have humor?,General_Jokes
+Do you like fun?,General_Jokes
+Do you like humor?,General_Jokes
+I am getting bored,General_Jokes
+I want a joke,General_Jokes
+I'm bored,General_Jokes
+One more joke,General_Jokes
+Surprise me with something hilarious,General_Jokes
+Tell me a joke,General_Jokes
+Tell me something funny,General_Jokes
+What do you do for fun?,General_Jokes
+What is your favorite joke?,General_Jokes
+Do you have a joke?,General_Jokes
+Can you tell me a joke?,General_Jokes
+Can you tell a joke?,General_Jokes
+Are there jokes?,General_Jokes
+Another joke,General_Jokes
+You are on my nerves,General_Negative_Feedback
+You're too stupid,General_Negative_Feedback
+You're really irritating,General_Negative_Feedback
+You're really frustrating,General_Negative_Feedback
+You do not seem smart,General_Negative_Feedback
+You are very frustrating,General_Negative_Feedback
+Stupid,General_Negative_Feedback
+You are having delusions,General_Negative_Feedback
+Why are you stupid?,General_Negative_Feedback
+Why are you so annoying?,General_Negative_Feedback
+Do not like you?,General_Negative_Feedback
+Everyone hates you,General_Negative_Feedback
+Hate you,General_Negative_Feedback
+I do not like you,General_Negative_Feedback
+I hate this!,General_Negative_Feedback
+I hate you,General_Negative_Feedback
+It is annoying,General_Negative_Feedback
+Quit annoying me,General_Negative_Feedback
+Robots are boring,General_Negative_Feedback
+Robots are stupid,General_Negative_Feedback
+You're a genius!,General_Positive_Feedback
+Brilliant!,General_Positive_Feedback
+Can't believe you are that good,General_Positive_Feedback
+How cool is this?,General_Positive_Feedback
+I like what you did there! :),General_Positive_Feedback
+I'm looking forward to working with you again! :),General_Positive_Feedback
+Love your work,General_Positive_Feedback
+Ok thank you,General_Positive_Feedback
+Thank you,General_Positive_Feedback
+This is good,General_Positive_Feedback
+This is great,General_Positive_Feedback
+This is so cool,General_Positive_Feedback
+You are awesome,General_Positive_Feedback
+You are great,General_Positive_Feedback
+You are the best,General_Positive_Feedback
+You are wonderful,General_Positive_Feedback
+You gave me exactly what I need!,General_Positive_Feedback
+You the man,General_Positive_Feedback
+You've been so helpful :),General_Positive_Feedback
+hi,Greetings
+hola,Greetings
+how are you?,Greetings
+good night,Greetings
+good afternoon,Greetings
+good morning,Greetings
+good evening,Greetings
+hello,Greetings
+"Please, take my order",Order
+please order,Order
+how are you holding up?,Question
+how are you doing?,Question
+How are you?,Question
