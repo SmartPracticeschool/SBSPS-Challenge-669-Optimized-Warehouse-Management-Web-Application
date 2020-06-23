@@ -1,0 +1,40 @@
+{
+  "attachments": [{
+    "asset_type": "wml_model",
+    "create_time": 1591541526512,
+    "id": "90d87c1e-938b-4a75-aa52-5fea8aa85c52",
+    "size": 22642918,
+    "transfer_complete": true,
+    "version": 2.0
+  }],
+  "entity": {
+    "wml_model": {
+      "type": "wml-hybrid_0.1",
+      "training_data_references": [{
+        "location": {
+          "type": "s3",
+          "bucket": "optfood-donotdelete-pr-tpuulakeaudnfv",
+          "path": "FoodProj.csv"
+        },
+        "type": "s3",
+        "connection": {
+          "endpoint_url": "https://s3-api.us-geo.objectstorage.softlayer.net",
+          "auth_endpoint": "https://iam.bluemix.net/oidc/token/",
+          "api_key": "_wsK86uTdRgevFlmjANklp0tzMyuvUut6s7ddVqjLYKj",
+          "secret_access_key": "8731562d483da5573f994cc21d1168d7be002343dce6ba9d",
+          "access_key_id": "a8d635b7dab74bcc808c671e8d5e9625",
+          "service_instance_id": "iam-ServiceId-e51e5b74-3b52-4dd9-b1f5-3b6ed87e765c"
+        }
+      }]
+    }
+  },
+  "metadata": {
+    "asset_category": "USER",
+    "asset_id": "P3",
+    "asset_type": "wml_model",
+    "created": 1591541526512,
+    "name": "P3",
+    "space_id": "e0d976d5-9bae-4637-acd6-982caae1bf84",
+    "tags": ["dsx-project.a6db43c3-d99e-491b-89d4-73fe3ab930d3"]
+  }
+}
