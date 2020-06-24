@@ -1,0 +1,3 @@
+Link to Optimized Warehouse Management Web Application:
+
+https://node-red-xecew.eu-gb.mybluemix.net/ui/#!/0?socketid=r3lG1c6_rjQyzBTKAAAT
