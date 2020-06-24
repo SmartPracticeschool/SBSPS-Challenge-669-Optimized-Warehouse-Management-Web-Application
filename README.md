@@ -64,6 +64,7 @@ o	IBM Watson Assistant:
 3.	App: Chat Bot
 4.	Hosted: NODE RED
 5.	Database: Cloudant DB
+6. Algorithms used: Fuzzy logic, Natural Language Processing, Speech Processing.
 6.	API Endpoints: Mentioned in service credentials
 
 o	IBM Watson-Cognos Embed:
@@ -123,7 +124,7 @@ health.
 
 The Watson Assistant Skill section has intents to analyze user input sentences, entities to analyze user input key words and dialogs, 
 to reciprocate an output.
-It all depends upon an individual, as to how and where to drive the anticipated conversation.
+It all depends upon an individual, as to how and where to drive the anticipated conversation, using fuzzy logic, NLP and SP.
 
 #### Hosting:
 
