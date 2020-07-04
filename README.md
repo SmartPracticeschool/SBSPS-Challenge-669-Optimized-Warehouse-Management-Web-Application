@@ -65,7 +65,16 @@ o	IBM Watson Assistant:
 4.	Hosted: NODE RED
 5.	Database: Cloudant DB
 6. Algorithms used: Fuzzy logic, Natural Language Processing, Speech Processing.
-6.	API Endpoints: Mentioned in service credentials
+7.	API Endpoints: Mentioned in service credentials
+
+o	IBM Discovery Services:
+1.	Server type: REST
+2.	Programming Language: Python
+3.	App: Smart Document understanding imparted to the chat bot
+4.	Hosted: NODE RED
+5.	Database: Cloudant DB
+6. Algorithms used: Fuzzy logic, Natural Language Processing.
+7.	API Endpoints: Mentioned in service credentials
 
 o	IBM Watson-Cognos Embed:
 1.	Server type: REST
@@ -125,6 +134,10 @@ health.
 The Watson Assistant Skill section has intents to analyze user input sentences, entities to analyze user input key words and dialogs, 
 to reciprocate an output.
 It all depends upon an individual, as to how and where to drive the anticipated conversation, using fuzzy logic, NLP and SP.
+
+The Czar bot is also endowed with a smart document understanding capability, therefore, it can understand and answer several queries
+generated regarding the food business, known and unknown competition and related government policies. This capability is courtesy the
+Watson Discovery Services.
 
 #### Hosting:
 
