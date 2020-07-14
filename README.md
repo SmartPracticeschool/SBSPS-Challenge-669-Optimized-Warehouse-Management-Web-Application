@@ -188,6 +188,13 @@ Provides a daily dosage of Global news in general and food related news and reci
 
 Used for users who don’t read much news and are more drawn towards audio visual representation.
 
+###Link to the Google Drive containing all the project deliverables:
+
+https://drive.google.com/drive/folders/1tMsGkOpqqCShvWGTTNs1UBp1_VlotTFB?usp=sharing
+
+###Link to the Web Application:
+https://node-red-xecew.eu-gb.mybluemix.net/ui/#!/0?socketid=BFxN6MoDhSPRmZujAAAA
+
 
 
 
